@@ -20,3 +20,4 @@ print("Tercer digito: " + str(r3))
 print("Segundo digito: " + str(r2))
 print("Primer digito: " + str(r1))
 print("El número invertido es: " + str(ni))
+

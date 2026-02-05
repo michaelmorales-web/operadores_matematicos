@@ -21,4 +21,4 @@ C4 = C4/1000
 
 ## Diseño
 
-![diagrama de flujo]()
+![diagrama de flujo](invertir.png)
